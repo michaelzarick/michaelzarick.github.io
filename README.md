@@ -1,2 +1,2 @@
-# mogul213.github.io
+# michaelzarick.github.io
 personal website
